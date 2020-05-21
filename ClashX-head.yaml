@@ -1,0 +1,5 @@
+- name: QQ Music
+  type: select
+  proxies:
+  - Proxy
+  - DIRECT
