@@ -2,7 +2,7 @@
 - DOMAIN-SUFFIX,acc.music.qq.com,Proxy
 - DOMAIN-SUFFIX,ios.rqd.qq.com,Proxy
 - DOMAIN-SUFFIX,y.gtimg.cn,Proxy
-- IP-CIDR,203.205.137.159/32,Proxy
+- IP-CIDR,203.205.137.159/24,Proxy
 
 - DOMAIN-SUFFIX,dler.cloud,Proxy
 
